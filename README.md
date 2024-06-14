@@ -6,7 +6,7 @@
 - 생성에는 KULLUM 모델을 활용하였으며, 쿠팡 플랫폼에서 수집된 97,365건의 데이터로 파인튜닝하였습니다. 
 - 7가지 품목에 대해 생성하였으며, 총 데이터 개수는 3,538건 입니다.   
 - 7가지 품목 별 생성된 텍스트 개수는 다음의 표와 같습니다.
-- 파일 위치: './data/generated_txt.csv'
+- 파일 위치: './data/generated_revews.csv'
 
 
 | NO. | 품목 | 개수 |
@@ -26,5 +26,5 @@
 | --- | --- | --- |
 | 1 | gen_text | 생성된 텍스트 |
 | 2 | category | 제품품목 |
-| 3 | label  | CG(computer-generated) |
+| 3 | label  | CG (computer-generated) |
 
