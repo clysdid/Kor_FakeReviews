@@ -37,7 +37,7 @@
 해당 GitHub 내의 데이터를 사용할 때는 아래의 인용 문구를 기재해 주시기 바랍니다.
 
 ```bibtex
-@article{Kor_FakeReviews,
+@article{ART003095260,
   author = {강주영, 송민},
   title = {한국어 가짜 구매후기 생성과 탐지 성능 평가},
   journal = {지능정보연구},
