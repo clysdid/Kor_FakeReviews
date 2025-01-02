@@ -33,7 +33,7 @@
 | 3 | label  | CG (computer-generated) |
 
 
-### 인용
+## 인용
 해당 GitHub 내의 데이터를 사용할 때는 아래의 인용 문구를 기재해 주시기 바랍니다.
 
 ```bibtex
