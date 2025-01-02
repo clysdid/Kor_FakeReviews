@@ -2,7 +2,7 @@
 
 한국어로 생성된 가짜 구매후기 데이터를 공개합니다. <br/>
 해당 연구는 지능정보연구 제 30권 2호에 개제되어 있습니다. <br/>
-[논문 PDF 다운로드] (https://www.jiisonline.org/files/DLA/20240630225137_16.%EA%B0%95%EC%A3%BC%EC%98%81(%EC%B5%9C%EC%A2%85).pdf?PHPSESSID=039313b0723e169a7164eb0416f16b72)
+[논문 PDF 다운로드](https://www.jiisonline.org/files/DLA/20240630225137_16.%EA%B0%95%EC%A3%BC%EC%98%81(%EC%B5%9C%EC%A2%85).pdf?PHPSESSID=039313b0723e169a7164eb0416f16b72)
 
 
 
@@ -35,13 +35,14 @@
 ### 인용
 해당 GitHub 내의 데이터를 사용할 때는 아래의 인용 문구를 기재해 주시기 바랍니다.
 
+```bibtex
 @article{Kor_FakeReviews,
   author = {강주영, 송민},
   title = {한국어 가짜 구매후기 생성과 탐지 성능 평가},
   journal = {지능정보연구},
   issn = {2288-4866},
   year = {2024},
-  volume = {30}
+  volume = {30},
   number = {2},
   pages = {313-328}
 }
